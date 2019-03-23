@@ -1,1 +1,2 @@
-Conteúdo do arquivo
+﻿Conteúdo do arquivo
+Agora editei no local para aparecer no commit do github
